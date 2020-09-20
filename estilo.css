@@ -1,6 +1,6 @@
 #miamor {
   zoom: 50%;
-  background: red;
+  background: purple;
   font-size: 25px;
   color: white;
   -webkit-box-shadow: -46px 0px 37px -2px rgba(0, 0, 0, 0.73);
@@ -9,7 +9,7 @@
 }
 
 .carta-amor {
-  border: 50px solid rgb(197, 20, 20);
+  border: 50px solid purple;
   background-color: black !important;
 }
 
